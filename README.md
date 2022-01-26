@@ -1,7 +1,7 @@
 # Welcome to Shoe Hub Global!
 ## Generates random data points in Graphite 
 
-This utility program generates random data points in Graphite. This is part of an online course on Udemy called ["Grafana, Graphite and StatsD: From Beginners To Advanced"](https://www.udemy.com/grafana-graphite-and-statsd-visualize-metrics/?couponCode=GITHUBDISCOUNT)
+This utility program generates random data points in Graphite.
 
 ## This is a Dotnet Core App!
 
